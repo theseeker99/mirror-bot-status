@@ -3,7 +3,7 @@
     "bot1": {
       "base_url_of_bot": "http://104.196.238.240",
       "host": "Gcloud",
-      "bot_uname": "@TSSC_Game_Mirror_Robot"
+      "bot_uname": "TSSC_Game_Mirror_Robot"
     }
   },
   "channels": {
