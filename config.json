@@ -1,15 +1,15 @@
 {
   "bots": {
     "bot1": {
-      "base_url_of_bot": "http://150.136.136.4",
-      "host": "Oracle",
-      "bot_uname": "@TSSC_Leech_bot"
+      "base_url_of_bot": "http://104.196.238.240",
+      "host": "Gcloud",
+      "bot_uname": "@TSSC_Game_Mirror_Robot"
     }
   },
   "channels": {
     "chat1": {
       "chat_id": "-1001707091598",
-      "message_id": "33"
+      "message_id": "222"
     }
   }
 }
